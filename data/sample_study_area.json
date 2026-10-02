@@ -1,0 +1,18 @@
+{
+  "project": "Urban Flood Nowcasting System (Drainage and Rainfall Coupling)",
+  "problem_statement": "SIH 26085 - Ministry of Earth Sciences (MoES) / NCMRWF",
+  "study_area": {
+    "name": "Bengaluru Central Catchment (Koramangala Valley Basin)",
+    "bounding_box": {
+      "lat_min": 12.9250,
+      "lat_max": 12.9450,
+      "lon_min": 77.5850,
+      "lon_max": 77.6100
+    },
+    "grid_rows": 20,
+    "grid_cols": 20,
+    "cell_size_m": 50.0,
+    "total_area_km2": 1.0
+  },
+  "provenance_note": "DEMONSTRATION DATA — Replace with official municipal stormwater GIS and DWR radar feeds for operational deployment."
+}

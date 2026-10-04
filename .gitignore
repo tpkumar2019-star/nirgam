@@ -1,0 +1,59 @@
+# =========================
+# Backend - Python
+# =========================
+
+backend/venv/
+backend/.venv/
+backend/env/
+
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment / Secrets
+# =========================
+
+backend/.env
+frontend/.env
+.env
+
+# =========================
+# Frontend - Node / React
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Python coverage
+# =========================
+
+.coverage
+htmlcov/
